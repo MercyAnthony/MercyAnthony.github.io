@@ -1,0 +1,85 @@
+body{
+	background-color: white;
+}
+
+h3{
+	margin-top: auto;
+}
+nav{
+  	width: 1243px;
+  	height: 45px;
+  	background-color: white;
+}
+
+.dart{
+	background-image: url(../img/skyscrape.jpg);
+	height: 300px;
+	width: 1243px;
+ }
+ 
+p{
+	font-size: 30px;
+}
+
+li{
+	float: right;
+	height: 25px;
+	padding-bottom: -20px;
+	margin: 5%;
+	margin-top: 15px;
+}
+#mercy{
+	margin: 10px;
+    padding-top: 10px;
+}
+
+#dart{
+	margin-left: 700px;
+	height: 200px;
+	margin-top: -70px;
+}
+
+.agolo{
+	width: 100%;
+}
+.box{
+	width: 80%;
+}
+.one{
+	width: 20%;
+	float: left;
+	text-align: center;
+	margin: 25px;
+}
+.two{
+	width: 20%;
+	float: left;
+	text-align: center;
+	margin: 25px;
+}
+.three{
+	width: 20%;
+	float: right;
+	text-align: center;
+	margin: 25px;
+}
+.four{
+	width: 20%;
+	float: right;
+	text-align: center;
+	margin: 15px;
+}
+button{
+	background-color: red;
+
+}
+#spiral{
+	width: 25px;
+	height: 25px;
+}
+#pasg:hover{
+	background-color: red;
+}
+li:hover{
+	text-decoration: underline;
+}
